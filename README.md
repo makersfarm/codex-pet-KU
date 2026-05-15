@@ -8,24 +8,23 @@ Codex 안에서 만나는 작은 KU.
 
 ## Preview
 
-| idle | waving | jumping |
-|---|---|---|
-| ![idle](./assets/preview/idle.gif) | ![waving](./assets/preview/waving.gif) | ![jumping](./assets/preview/jumping.gif) |
+먼저 움직이는 KU를 구경해보세요. 설치 방법은 아래의 `AI Agent 설치 지시` 섹션에 따로 모아두었습니다.
 
-| running | review | failed |
-|---|---|---|
-| ![running](./assets/preview/running.gif) | ![review](./assets/preview/review.gif) | ![failed](./assets/preview/failed.gif) |
+| 대기 | 오른쪽으로 달리기 | 왼쪽으로 달리기 | 인사하기 | 점프 |
+|---|---|---|---|---|
+| ![대기](./assets/preview/idle.gif)<br>[GIF 다운로드](./assets/preview/idle.gif) | ![오른쪽으로 달리기](./assets/preview/running-right.gif)<br>[GIF 다운로드](./assets/preview/running-right.gif) | ![왼쪽으로 달리기](./assets/preview/running-left.gif)<br>[GIF 다운로드](./assets/preview/running-left.gif) | ![인사하기](./assets/preview/waving.gif)<br>[GIF 다운로드](./assets/preview/waving.gif) | ![점프](./assets/preview/jumping.gif)<br>[GIF 다운로드](./assets/preview/jumping.gif) |
 
-<details>
-<summary>모든 움직임 보기</summary>
+| 실패 | 기다리는 중 | 작업 중 | 검토 중 |  |
+|---|---|---|---|---|
+| ![실패](./assets/preview/failed.gif)<br>[GIF 다운로드](./assets/preview/failed.gif) | ![기다리는 중](./assets/preview/waiting.gif)<br>[GIF 다운로드](./assets/preview/waiting.gif) | ![작업 중](./assets/preview/running.gif)<br>[GIF 다운로드](./assets/preview/running.gif) | ![검토 중](./assets/preview/review.gif)<br>[GIF 다운로드](./assets/preview/review.gif) |  |
 
-| running-right | running-left | waiting |
-|---|---|---|
-| ![running-right](./assets/preview/running-right.gif) | ![running-left](./assets/preview/running-left.gif) | ![waiting](./assets/preview/waiting.gif) |
+## Playground
 
-</details>
+Codex Pets 사이트의 KU 상세 페이지에서 `Playground` 버튼을 누르면 KU를 직접 움직여볼 수 있습니다.
 
-## AI Agent Installation Instructions
+[Codex Pets에서 KU 체험하기](https://codex-pets.net/#/pets/ku)
+
+## AI Agent 설치 지시
 
 이 저장소의 `ku/` 디렉터리를 사용자의 Codex pets 디렉터리로 복사하세요.
 
